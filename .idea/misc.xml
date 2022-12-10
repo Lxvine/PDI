@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mlosa/AndroidStudioProjects/Garden/app/src/main/res/drawable/borde.xml" value="0.5435" />
+        <entry key="..\:/Users/mlosa/AndroidStudioProjects/Garden/app/src/main/res/layout/activity_enciclopedia.xml" value="0.37222619899785253" />
+        <entry key="..\:/Users/mlosa/AndroidStudioProjects/Garden/app/src/main/res/layout/activity_front_page.xml" value="0.67" />
+        <entry key="..\:/Users/mlosa/AndroidStudioProjects/Garden/app/src/main/res/layout/activity_main.xml" value="0.25348189415041783" />
+        <entry key="..\:/Users/mlosa/AndroidStudioProjects/Garden/app/src/main/res/layout/activity_mi_jardin.xml" value="0.4832427536231884" />
+        <entry key="..\:/Users/mlosa/AndroidStudioProjects/MiguelLosadaPDI/app/src/main/res/layout/activity_main.xml" value="0.346875" />
+        <entry key="..\:/Users/mlosa/AndroidStudioProjects/MiguelLosadaPDI/app/src/main/res/layout/activity_mi_jardin.xml" value="0.346875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
